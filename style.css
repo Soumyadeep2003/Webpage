@@ -49,6 +49,7 @@ span{
  .card{
   width: fit-content;
   margin-bottom: 50px;
+  text-align:justify;
  }
  .card>img{
   margin-bottom: 30px;
