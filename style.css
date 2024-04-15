@@ -54,6 +54,7 @@ span{
  .card>img{
   margin-bottom: 30px;
   width: 100%;
+  object-fit:cover;
  }
   .logo{
     width: 100px;
